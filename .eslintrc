@@ -1,0 +1,8 @@
+{
+"extends": "rallycoding",
+"globals": {
+  "fetch": true,
+  "alert": true,
+  "null": true
+  }
+}
